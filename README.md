@@ -1,6 +1,6 @@
 # Attendance & Course Management
 
-This is a simple demo project containing:
+This is a project containing:
 - A Flask backend (port 5000)
 - A React frontend (create-react-app style)
 
