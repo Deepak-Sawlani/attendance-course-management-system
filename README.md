@@ -1,4 +1,4 @@
-# Attendance & Course Management (Demo)
+# Attendance & Course Management
 
 This is a simple demo project containing:
 - A Flask backend (port 5000)
